@@ -74,7 +74,7 @@ Like most of these labs, there are two ways of achieving the same result:
 * Using the UI in either Visual Studio
 * Programmatically through the CLI in VS Code
 
-Which path you go down is up to you, but try to be consitent with the approach you adopt. The repo we'll be using for this is: `https://AdatisArtefactRepository@dev.azure.com/AdatisArtefactRepository/Research%20And%20Development/_git/Git-Labs.20190218` 
+Which path you go down is up to you, but try to be consitent with the approach you adopt. The repo we'll be using for this is: `insert repo link` 
 **NOTE: The repo mentioned is forked from Git-Labs. Please update it with a more up-to-date fork with each training** 
 
 #### Cloning a repo in the UI
